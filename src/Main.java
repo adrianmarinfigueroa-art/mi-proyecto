@@ -3,3 +3,4 @@ public class Main {
         System.out.println("Versión inicial con gestión básica de productos.");
     }
 }
+//Mejora de salida inicial
